@@ -9,3 +9,9 @@ Learning Shell script
 	echo "Hello world!";
 
 ```
+
+```shell
+	if [ CONDICAO ]; then
+		ACAO
+	fi
+```	
